@@ -4,7 +4,7 @@
 shinyServer(function(input, output) {
 
 
-   set.seed(10000)
+   #set.seed(10000)
    x=runif(7000000, 0, 1)
 
 
